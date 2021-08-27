@@ -1,0 +1,2 @@
+Algorithm|CatRootInPath|Catalog|Cert Issuer|Cert Status|Company|Description|File version|Filepath|HasCatalog|IMP|IsPESignedfile|IsPEfile|Link date|MD5|MachineType|Prod version|Product|SHA1|SHA256|Serial Number|Signers|Signing date|Thumbprint|Valid Usage|Valid from|Valid to|Verified
+"n/a"|"n/a"|"n/a"|"n/a"|"n/a"|"n/a"|"n/a"|"n/a"|"C:\Users\sarvikar\Documents\fileSet\CleanFiles1\filecompare.exe"|"n/a"|"n/a"|"True"|"True"|"n/a"|"n/a"|"n/a"|"n/a"|"n/a"|"n/a"|"n/a"|"n/a"|"n/a"|"n/a"|"n/a"|"n/a"|"n/a"|"n/a"|"n/a"
